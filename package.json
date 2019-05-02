@@ -1,0 +1,15 @@
+{
+  "name": "05-clima-mundo",
+  "version": "1.0.0",
+  "description": "Aplicaión para conocer el estado del clima de cualquier ciudad a través de la Api de Google",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jesús Cabeza A",
+  "license": "ISC",
+  "dependencies": {
+    "axios": "^0.18.0",
+    "yargs": "^13.2.2"
+  }
+}
